@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "name": "Niloy",
+      "age": 20,
+      "gender": "Male",
+      "contact": {
+        "phone": "+880 123 456 7890",
+        "email": "niloy@student.bduniversity.edu",
+        "address": "123 Dhaka Road, Mirpur, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "name": "Ayesha Sultana",
+      "age": 20,
+      "gender": "Female",
+      "contact": {
+        "phone": "+880 987 654 3210",
+        "email": "ayesha.sultana@student.bduniversity.edu",
+        "address": "45 Banani, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "name": "Rohit Ahmed",
+      "age": 23,
+      "gender": "Male",
+      "contact": {
+        "phone": "+880 555 666 7777",
+        "email": "rohit.ahmed@student.bduniversity.edu",
+        "address": "78 Gulshan Ave, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "name": "Mariam Akter",
+      "age": 21,
+      "gender": "Female",
+      "contact": {
+        "phone": "+880 321 654 9870",
+        "email": "mariam.akter@student.bduniversity.edu",
+        "address": "12 Uttara, Dhaka, Bangladesh"
+      }
+    }
+  ]
+}
