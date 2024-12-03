@@ -21,12 +21,12 @@
       }
     },
     {
-      "name": "Rohit Ahmed",
+      "name": "Raju Ahmed",
       "age": 23,
       "gender": "Male",
       "contact": {
         "phone": "+880 555 666 7777",
-        "email": "rohit.ahmed@student.bduniversity.edu",
+        "email": "raju.ahmed@student.bduniversity.edu",
         "address": "78 Gulshan Ave, Dhaka, Bangladesh"
       }
     },
