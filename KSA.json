@@ -1,43 +1,43 @@
 {
   "students": [
     {
-      "name": "Niloy",
-      "age": 20,
-      "gender": "Male",
-      "contact": {
-        "phone": "+880 123 456 7890",
-        "email": "niloy@student.bduniversity.edu",
-        "address": "123 Mirpur, Dhaka, Bangladesh"
+      "Name": "Niloy",
+      "Age": 20,
+      "Gender": "Male",
+      "Contact": {
+        "Phone": "+880 123 456 7890",
+        "Email": "niloy@student.bduniversity.edu",
+        "Address": "123 Mirpur, Dhaka, Bangladesh"
       }
     },
     {
-      "name": "Ayesha Sultana",
-      "age": 20,
-      "gender": "Female",
-      "contact": {
-        "phone": "+880 987 654 3210",
-        "email": "ayesha.sultana@student.bduniversity.edu",
-        "address": "45 Banani, Dhaka, Bangladesh"
+      "Name": "Ayesha Sultana",
+      "Age": 20,
+      "Gender": "Female",
+      "Contact": {
+        "Phone": "+880 987 654 3210",
+        "Email": "ayesha.sultana@student.bduniversity.edu",
+        "Address": "45 Banani, Dhaka, Bangladesh"
       }
     },
     {
-      "name": "Raju Ahmed",
-      "age": 23,
-      "gender": "Male",
-      "contact": {
-        "phone": "+880 555 666 7777",
-        "email": "raju.ahmed@student.bduniversity.edu",
-        "address": "78 Gulshan Ave, Dhaka, Bangladesh"
+      "Name": "Raju Ahmed",
+      "Age": 23,
+      "Gender": "Male",
+      "Contact": {
+        "Phone": "+880 555 666 7777",
+        "Email": "raju.ahmed@student.bduniversity.edu",
+        "Address": "78 Gulshan Ave, Dhaka, Bangladesh"
       }
     },
     {
-      "name": "Mariam Akter",
-      "age": 21,
-      "gender": "Female",
-      "contact": {
-        "phone": "+880 321 654 9870",
-        "email": "mariam.akter@student.bduniversity.edu",
-        "address": "12 Uttara, Dhaka, Bangladesh"
+      "Name": "Mariam Akter",
+      "Age": 21,
+      "Gender": "Female",
+      "Contact": {
+        "Phone": "+880 321 654 9870",
+        "Email": "mariam.akter@student.bduniversity.edu",
+        "Address": "12 Uttara, Dhaka, Bangladesh"
       }
     }
   ]
